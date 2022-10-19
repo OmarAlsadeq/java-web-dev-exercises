@@ -11,7 +11,6 @@ public class CarTest {
 
     private Car car;
 
-    //TODO: add emptyTest so we can configure our runtime environment (remove this test before pushing to your personal GitLab account)
     Car test_car;
     @Before
     public void createCarObject() {
